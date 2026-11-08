@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+title: "Mayflower: Native SwiftUI Academic Planner for Colby College on macOS, iPhone and iPad — Degree Audit, Workday Course Schedules and Moodle"
+abstract: "Mayflower is an unofficial native SwiftUI academic planner for Colby College students on Mac, iPhone and iPad. After the student signs in to Colby themselves, it reads their own Workday courses, degree progress and Moodle data, then helps plan schedules and track degree requirements across Colby's programs. It never registers for classes on the student's behalf."
+authors:
+  - family-names: Zhou
+    given-names: Robert
+    orcid: https://orcid.org/0009-0009-2155-7215
+    affiliation: Colby College
+    website: https://robertzhou.dev
+url: https://robertzhou.dev
+repository-code: https://github.com/bobzhou-source/mayflower
+keywords:
+  - "SwiftUI"
+  - "iOS"
+  - "macOS"
+  - "iPadOS"
+  - "degree audit"
+  - "academic planning"
+  - "course scheduling"
+  - "Workday"
+  - "Moodle"
+  - "Colby College"
+  - "student app"
+  - "Robert Zhou"
